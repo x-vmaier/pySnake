@@ -1,4 +1,8 @@
-# pySnake
+<h1 align="center">pySnake</h1>
+
+<p align="center">
+  <img src="images/screenshot.png" alt="Game Screenshot">
+</p>
 
 Ein Python-Spiel, inspiriert von Snake, bei dem du ein Flugzeug steuerst und Treibstofftanks sammelst.
 
@@ -17,7 +21,7 @@ Sammle so viele Treibstofftanks wie möglich, ohne gegen die Spielfeldgrenzen zu
 
 ## Spielfeld
 
-Das Spielfeld ist ein Raster von 20x20 Feldern. Die Begrenzungen sind durch linien dargestellt. Deine Aufgabe ist es, die Treibstofftanks zu sammeln, ohne das Spielfeld zu verlassen oder in deinen eigenen Abgasstrahl zu fliegen.
+Das Spielfeld ist ein Raster von 20x20 Feldern. Die Begrenzungen sind durch Linien dargestellt. Deine Aufgabe ist es, die Treibstofftanks zu sammeln, ohne das Spielfeld zu verlassen oder in deinen eigenen Abgasstrahl zu fliegen.
 
 ## Installation
 

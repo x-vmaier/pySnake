@@ -279,7 +279,7 @@ class PlaneGame:
                     # Erzeugt einen neuen Treibstofftank
                     self.fuel_position = self.generate_fuel_position()
                     self.draw_fuel()
-                    self.num_exhaust_plumes += 1  # Verlängert den Abgasstrahl um 1
+                    self.num_exhaust_plumes += 10  # Verlängert den Abgasstrahl um 1
 
                 # Rendert den Flieger
                 self.draw_snake()
