@@ -1,7 +1,7 @@
 <h1 align="center">pySnake</h1>
 
 <p align="center">
-  <img src="images/screenshot.png" alt="Game Screenshot">
+  <img src="images/screenshot.png" alt="Game Screenshot" width="400" height="400">
 </p>
 
 Ein Python-Spiel, inspiriert von Snake, bei dem du ein Flugzeug steuerst und Treibstofftanks sammelst.
