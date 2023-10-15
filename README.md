@@ -26,3 +26,7 @@ Bevor du das Spiel starten kannst, stelle sicher, dass du die benötigten Biblio
 ```bash
 pip install -r requirements.txt
 ```
+
+## Assets
+
+- Die Grafiken für das Spiel stammen von [Kenney's Pixel Shmup Assets](https://kenney-assets.itch.io/pixel-shmup) auf itch.io.
