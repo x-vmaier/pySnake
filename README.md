@@ -4,7 +4,7 @@
   <img src="images/screenshot.png" alt="Game Screenshot" width="400" height="400">
 </p>
 
-Ein Python-Spiel, inspiriert von Snake, bei dem du ein Flugzeug steuerst und Treibstofftanks sammelst.
+<p align="center">Ein Python-Spiel, inspiriert von Snake, bei dem du ein Flugzeug steuerst und Treibstofftanks sammelst.</p>
 
 ## Anleitung
 
